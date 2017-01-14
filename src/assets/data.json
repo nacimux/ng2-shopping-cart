@@ -1,0 +1,24 @@
+{
+"data": [{
+    "name" : "product 1",
+    "brand" : "levi's",
+    "color" : "black",
+    "image" : "",
+    "price" : "250"
+  },
+  {
+    "name" : "product 2",
+    "brand" : "nike",
+    "color" : "white",
+    "image" : "",
+    "price" : "75"
+  },
+  {
+    "name" : "product 3",
+    "brand" : "adidas",
+    "color" : "red",
+    "image" : "",
+    "price" : "150"
+  }
+  ]
+}
